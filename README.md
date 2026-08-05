@@ -1,5 +1,7 @@
 # Yaswanth Portfolio
 
+![Portfolio Preview](README-screenshot-1.png)
+
 A modern interactive portfolio built with React, Three.js, and Tailwind CSS. This project showcases a personal developer profile with immersive 3D visuals, animated sections, and advanced UI interactions.
 
 ## 🌐 Project Overview
@@ -16,6 +18,20 @@ A modern interactive portfolio built with React, Three.js, and Tailwind CSS. Thi
 - Command palette and custom terminal modal for immersive navigation
 - Contact form integration with EmailJS
 - Fully responsive layout for desktop and mobile
+
+## ✨ Highlights
+
+- Immersive 3D workspace and floating skill visuals create a polished brand experience
+- Custom terminal and command palette improve usability and engagement
+- Modular design with reusable React components and centralized portfolio data
+- Easy customization through `src/data/portfolioData.ts`
+- Production-ready Vite build with Tailwind CSS and optimized performance
+
+## 📷 Screenshots
+
+![Portfolio Preview](README-screenshot-1.png)
+
+![Interactive UI Section](README-screenshot-2.png)
 
 ## 🧰 Tech Stack
 
