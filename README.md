@@ -1,4 +1,4 @@
-# 3D Cyberpunk Developer Portfolio
+# Yaswanth Portfolio
 
 A modern interactive portfolio built with React, Three.js, and Tailwind CSS. This project showcases a personal developer profile with immersive 3D visuals, animated sections, and advanced UI interactions.
 
